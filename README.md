@@ -12,3 +12,6 @@ No hay transiciones entre actividades, ya que toda la funcionalidad está conten
 3. Conecta un dispositivo Android o inicia un emulador.
 4. Haz clic en el botón **Run** (▶️) para compilar y ejecutar la aplicación.
 5. Prueba la calculadora ingresando números y realizando operaciones básicas.
+
+## Notas
+Al momento de ingresar un numero nuevo después de presionar cualquier operador la pantalla de la calculadora se limpia, es por eso que es un poco dificil creer en el funcionamiento de esta app a través de pura captura de pantalla, sin embargo al aplicación sirve en su totalidad.
