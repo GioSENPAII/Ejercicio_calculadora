@@ -14,4 +14,4 @@ No hay transiciones entre actividades, ya que toda la funcionalidad está conten
 5. Prueba la calculadora ingresando números y realizando operaciones básicas.
 
 ## Notas
-Al momento de ingresar un numero nuevo después de presionar cualquier operador la pantalla de la calculadora se limpia, es por eso que es un poco dificil creer en el funcionamiento de esta app a través de pura captura de pantalla, sin embargo al aplicación sirve en su totalidad.
+Al momento de ingresar un numero nuevo después de presionar cualquier operador la pantalla de la calculadora se limpia, es por eso que es un poco dificil creer en el funcionamiento de esta app a través de pura captura de pantalla, sin embargo al aplicación sirve en su totalidad (en las capturas se muestra como realiza la suma de dos numeros).
